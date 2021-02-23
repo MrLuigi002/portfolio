@@ -1,0 +1,16 @@
+{
+"companyName": "LuisGarcia",
+"productName": "Portfolio Luis Garcia",
+"productVersion": "1.0",
+"dataUrl": "Final02.data.unityweb",
+"wasmCodeUrl": "Final02.wasm.code.unityweb",
+"wasmFrameworkUrl": "Final02.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#191919",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
